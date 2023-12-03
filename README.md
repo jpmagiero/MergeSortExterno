@@ -2,7 +2,7 @@
 
 Uma implementação do merge sort externo, que recebe uma entrada por um arquivo txt.
 
-Lembrem de mudar o nome do arquivo no código caso seja necessário. 
+Lembrem de mudar o nome do arquivo de entrada no código caso seja necessário.
 
 ![](assets/visãoGeral.png)
 
